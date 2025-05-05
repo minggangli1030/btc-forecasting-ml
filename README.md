@@ -34,23 +34,9 @@ Please download them manually and place them in the appropriate folders:
   `btc-arima/btc-historical-data.csv`
 
 ### 🔹 Bitcoin Pulse Dataset
-- **Source:** [Kaggle — Bitcoin Pulse: Market Trends & Fear Data](https://www.kaggle.com/datasets/wwwkaggler/bitcoin-pulse-market-trends-and-fear-dataset)
+- **Source:** [Kaggle — Bitcoin Pulse: Market Trends & Fear Data](https://www.kaggle.com/datasets/wlwwwlw/bitcoin-pulse-market-trends-and-fear-dataset)
 - **Expected path:**  
   `btc-xgboost/btc-pulse-data.csv`
-
----
-
-## ⚙️ Setup Instructions
-
-```bash
-git clone https://github.com/minggangli1030/btc-forecasting-ml.git
-cd btc-forecasting-ml
-
-# Set up your Python environment
-pip install -r requirements.txt
-
-# (Optional) Run notebooks with Jupyter or VSCode
-```
 
 ---
 
@@ -60,8 +46,4 @@ Minggang (Martin) Li
 UC Berkeley, Class of 2028  
 [GitHub](https://github.com/minggangli1030)
 
----
 
-## 📜 License
-
-MIT License — feel free to use, share, or adapt the code with attribution.
