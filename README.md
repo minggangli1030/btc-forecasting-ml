@@ -46,4 +46,10 @@ Minggang (Martin) Li
 UC Berkeley, Class of 2028  
 [GitHub](https://github.com/minggangli1030)
 
+> Originally developed for the Spring 2025 **Data 198: Introduction to Real-World Data Science (DeCal)**  
+> Team: Martin Li, Louis Liu, He Song, Natalie Wong  
+> Mentor: Alex Zhai
+
+This repository will continue to evolve over the summer as an extended personal project.
+
 
