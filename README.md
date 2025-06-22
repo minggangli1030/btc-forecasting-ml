@@ -36,10 +36,6 @@ btc-forecasting-ml/
 **Team:** Martin Li, Louis Liu, He Song, Natalie Wong  
 **Mentor:** Alex Zhai
 
-**Project Lead:** Minggang (Martin) Li  
-UC Berkeley, Class of 2028  
-[GitHub](https://github.com/minggangli1030)
-
 ## Course Information
 
 Originally developed for the Spring 2025 **Data 198: Introduction to Real-World Data Science (DeCal)**  
