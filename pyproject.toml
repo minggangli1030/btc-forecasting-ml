@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "btc-forecasting-experiments"
+version = "0.1.0"
+description = "Chronological forecasting experiments with explicit baselines and temporal contracts"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24", "pandas>=2.0"]
+
+[project.optional-dependencies]
+models = ["statsmodels>=0.14", "xgboost>=2.0"]
+dev = ["pytest>=7"]
+
+[project.scripts]
+btc-forecast = "btc_forecasting.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

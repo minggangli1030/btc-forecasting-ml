@@ -1,2 +1,13 @@
-btc-arima/btc-historical-data.csv
-btc-xgboost/btc-pulse-data.csv
+data/
+outputs/
+.venv/
+.env
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.deepnote/
+.DS_Store
+build/
+dist/
